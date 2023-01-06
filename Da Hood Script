@@ -983,7 +983,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/primegotemdontworry/r
 -- prime made this. and caught#6124 helped
 end)
 
-
+Extra:Button('Skin Changer',function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Invooker1/Hub/main/DH-Skin-Changer.lua", true))()
+end)
 
 
 
